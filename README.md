@@ -20,8 +20,8 @@ This chatbot assistant allows users to interact with an AI model via a chat-styl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-chatbot-assistant.git
-cd ai-chatbot-assistant
+git clone https://github.com/Inkithai/Chatbot_task.git
+cd Chatbot_task
 ```
 2. Install Dependencies
 Frontend
